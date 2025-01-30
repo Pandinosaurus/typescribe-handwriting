@@ -1,6 +1,6 @@
 # TypeScribe v1.0
 
-Need to send out a hundred organic Christmas cards? Or you have a fifty page essay due and _Brush Script_ doesn't quite cut it?
+Need to send out a hundred organic Christmas cards? Or you have a fifty page essay due and _Comic Sans_ doesn't quite cut it?
 Got you covered.
 
 **TypeScribe** is a tool that uses Machine Learning to convert typed text into realistic handwriting by introducing customizable degrees of randomness and variations, to make it all so believable.
